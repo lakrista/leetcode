@@ -1,2 +1,4 @@
 # leetcode
-Leetcode exercises
+Leetcode exercises:
+- Two Sum
+
